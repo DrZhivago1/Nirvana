@@ -4,9 +4,9 @@
   <suggests>
     <li>935099161</li>
     <li>1580375043</li>
-	<li>1568744597</li>
-	<li>823179072</li>
-	<li>822241157</li>
+    <li>1568744597</li>
+    <li>823179072</li>
+    <li>822241157</li>
   </suggests>
   <showCrossPromotions>true</showCrossPromotions>
   <manifestUri>https://raw.githubusercontent.com/DrZhivago1/Nirvana/master/About/Manifest.xml</manifestUri>
