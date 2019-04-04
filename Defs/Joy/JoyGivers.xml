@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <JoyGiverDef>
+    <defName>Jebus_Lovin</defName>
+    <giverClass>JoyGiver_InPrivateRoom</giverClass>
+    <baseChance>2</baseChance>
+    <jobDef>Lovin_Self</jobDef>
+    <joyKind>Jebus_Touching</joyKind>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <canDoWhileInBed>true</canDoWhileInBed>
+  </JoyGiverDef>
+
+</Defs>
