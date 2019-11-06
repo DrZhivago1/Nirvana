@@ -1,7 +1,7 @@
 # Nirvana
 Adds a new joy source, similar to meditation (done in a private room). Mod remade due to some arbitrary rules that are not being stated.
 
-Mortals/br
+Mortals /br
 Accruing
 Spiritual
 Tension
