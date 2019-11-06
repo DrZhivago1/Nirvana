@@ -4,9 +4,9 @@
   <JobDef>
     <defName>Lovin_Self</defName>
     <driverClass>JobDriver_RelaxAlone</driverClass>
-    <reportString>beating meat.</reportString>
-    <joyDuration>5000</joyDuration>
-    <joyGainRate>1</joyGainRate>
+    <reportString>self pleasuring.</reportString>
+    <joyDuration>3000</joyDuration>
+    <joyGainRate>1.1</joyGainRate>
     <joyKind>Jebus_Touching</joyKind>
   </JobDef>
 
