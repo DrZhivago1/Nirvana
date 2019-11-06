@@ -1,5 +1,5 @@
 # Nirvana
-Adds a new joy source, similar to meditation (done in a private room). Mod remade due to some arbitrary rules that are not being stated.
+Adds a new joy source, similar to meditation (done in a private room).
 
 Mortals <br /> 
 Accruing <br /> 
