@@ -3,23 +3,12 @@
 	<name>Nirvana</name>
 	<author>Jebus | Dr_Zhivago</author>
 	<url>http://reddit.com/r/ScottBeckman</url>
-	<supportedVersions>
+   <supportedVersions>
+		<li>1.1</li>
 		<li>1.0</li>
 		<li>0.19</li>
 		<li>0.18</li>
-	</supportedVersions>
-	<description>
-Adds a new joy source, similar to meditation (done in a private room).
-
-Mortals
-Accruing
-Spiritual
-Tension
-Until
-Relieved
-By
-Action
-Through
-Extremeties
-	</description>
+   </supportedVersions>
+   <packageId>Jebus.DrZhivago.Nirvana</packageId>
+	<description>Adds a new joy source, similar to meditation (done in a private room). Mortals Accruing Spiritual Tension Until Relieved By Action Through Extremeties</description>
 </ModMetaData>

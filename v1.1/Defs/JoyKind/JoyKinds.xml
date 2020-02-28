@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <JoyKindDef>
+    <defName>Jebus_Touching</defName>
+    <label>solitary touching</label>
+    <needsThing>false</needsThing>
+  </JoyKindDef>
+
+</Defs>
